@@ -1,4 +1,3 @@
-# --- MÓDULO 2: FUNCIONES INTEGRADAS ---
 # Una función es un bloque de código reutilizable que realiza una tarea específica.
 
 # 1. Máximo y Mínimo
